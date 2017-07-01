@@ -6,6 +6,7 @@ This sample demonstrates how to use basic functionalities of Camera2
 API. You can learn how to iterate through characteristics of all the
 cameras attached to the device, display a camera preview, and take
 pictures.
+
 在原有的基础上封装了Camera2 API的工具类 Camera2Utils。方便集成使用。可以使用Camera2Utils.CameraListener来监听Camera的事件（Open、Disconnected、Capture、Preview），增加前后摄像头切换。
 
 Introduction
